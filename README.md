@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Doniyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimoff96&count_private=true&theme=dark&show_icons=true)
+
 ![](https://leetcard.jacoblin.cool/dkarimoff96?theme=nord&font=Texturina&ext=activity)
