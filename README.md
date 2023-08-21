@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--Me on social medias
-*Telegram: [@dkarimoff96](https://t.me/dkarimoff96)
-*linkedIn:https://www.linkedin.com/in/doniyor-karimov-9511a8164/
+- Me on social medias
+  * Telegram: [@dkarimoff96](https://t.me/dkarimoff96)
+  * linkedIn:https://www.linkedin.com/in/doniyor-karimov-9511a8164/
 
 
 
