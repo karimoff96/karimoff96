@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **karimoff96/karimoff96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -Me on social medias
 *Telegram: [@dkarimoff96](https://t.me/dkarimoff96)
 *linkedIn:https://www.linkedin.com/in/doniyor-karimov-9511a8164/
--->
+
 
 
