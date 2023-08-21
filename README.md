@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ![Doniyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimoff96&count_private=true&theme=dark&show_icons=true)
 
 ![](https://leetcard.jacoblin.cool/dkarimoff96?theme=nord&font=Texturina&ext=activity)
+Me on social medias
+Telegram: [@dkarimoff96](https://t.me/dkarimoff96)
+linkedIn:https://www.linkedin.com/in/doniyor-karimov-9511a8164/
