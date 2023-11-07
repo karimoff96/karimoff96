@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about projects
 - 📫 How to reach me: doniyorkarimoff96@gmail.com
 - ⚡ Fun fact: The Zen of Python
- * import this 
+  ```bash
+  import this 
 - Me on social medias
   * Telegram: [@dkarimoff96](https://t.me/dkarimoff96)
   * linkedIn:https://www.linkedin.com/in/doniyor-karimov-9511a8164/
